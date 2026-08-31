@@ -1,10 +1,10 @@
-# ChatRoom - 基于 Qt + C 的跨平台聊天室系统
+# ChatRoom - 基于 Qt + C 的Linux平台聊天室系统
 
 ## 项目运行展示
 
 | 服务端（终端） | 客户端（Qt 图形界面） |
 |:---:|:---:|
-| ![服务端运行截图](server_terminal.png) | ![客户端运行截图](client_qt.png) |
+| [聊天室运行截图](Chat.gif) |
 
 ---
 
