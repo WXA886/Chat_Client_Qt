@@ -1,4 +1,4 @@
-# ChatRoom - 基于 Qt + C++ 的Linux平台聊天室系统
+# ChatRoom - 基于 Qt 和 C 的Linux平台聊天室系统
 
 ## 项目运行展示
 
