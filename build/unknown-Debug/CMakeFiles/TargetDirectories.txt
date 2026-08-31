@@ -1,0 +1,9 @@
+/home/wxa886/Chat_Client_Qt/build/unknown-Debug/CMakeFiles/Chat_Client.dir
+/home/wxa886/Chat_Client_Qt/build/unknown-Debug/CMakeFiles/edit_cache.dir
+/home/wxa886/Chat_Client_Qt/build/unknown-Debug/CMakeFiles/rebuild_cache.dir
+/home/wxa886/Chat_Client_Qt/build/unknown-Debug/CMakeFiles/list_install_components.dir
+/home/wxa886/Chat_Client_Qt/build/unknown-Debug/CMakeFiles/install.dir
+/home/wxa886/Chat_Client_Qt/build/unknown-Debug/CMakeFiles/install/local.dir
+/home/wxa886/Chat_Client_Qt/build/unknown-Debug/CMakeFiles/install/strip.dir
+/home/wxa886/Chat_Client_Qt/build/unknown-Debug/CMakeFiles/Chat_Client_autogen_timestamp_deps.dir
+/home/wxa886/Chat_Client_Qt/build/unknown-Debug/CMakeFiles/Chat_Client_autogen.dir
